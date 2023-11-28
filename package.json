@@ -1,0 +1,29 @@
+{
+  "name": "price-tracker",
+  "version": "0.1.0",
+  "description": "A simple price tracker for all your favorite products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index.js"
+  },
+  "repository": {
+  },
+  "keywords": [
+    "price",
+    "tracker",
+    "product",
+    "amazon",
+    "ebay",
+    "walmart"
+  ],
+  "author": "Aswin K O",
+  "license": "MIT",
+  "bugs": {
+   
+  },
+  "homepage": "",
+  "dependencies": {
+    "puppeteer": "21.5.2"
+  }
+}

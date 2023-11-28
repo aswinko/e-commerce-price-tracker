@@ -1,0 +1,27 @@
+{
+    "currencySymbol": "€",
+    "decimalSeparator": ",",
+    "products": [
+        {
+            "siteName": "https://www.amazon.in/",
+            "productName": "Mamaearth Vitamin C Face Wash with Vitamin C and Turmeric for Skin Illumination - 100ml",
+            "productQuantity": 1,
+            "productURL": "https://www.amazon.in/Mamaearth-Vitamin-Face-Turmeric-Illumination/dp/B089W938BR/ref=pd_ci_mcx_mh_mcx_views_3?pd_rd_w=Wa2FY&content-id=amzn1.sym.d82919fa-4dd3-472c-a589-170e317a0c23%3Aamzn1.symc.45dc5f4c-d617-4dba-aa26-2cadef3da899&pf_rd_p=d82919fa-4dd3-472c-a589-170e317a0c23&pf_rd_r=6EP72AAV97HT08RR28ER&pd_rd_wg=JdsMB&pd_rd_r=85bb60ae-8ea8-4f29-ba90-37ff62a3ddf6&pd_rd_i=B089W938BR&th=1",
+            "cssSelector": ".a-price-whole"
+        }, 
+        {
+            "siteName": "https://www.amazon.in/",
+            "productName": "Mamaearth Vitamin C Face Wash with Vitamin C and Turmeric for Skin Illumination - 100ml",
+            "productQuantity": 1,
+            "productURL": "https://www.amazon.in/Mamaearth-Vitamin-Face-Turmeric-Illumination/dp/B089W938BR/ref=pd_ci_mcx_mh_mcx_views_3?pd_rd_w=Wa2FY&content-id=amzn1.sym.d82919fa-4dd3-472c-a589-170e317a0c23%3Aamzn1.symc.45dc5f4c-d617-4dba-aa26-2cadef3da899&pf_rd_p=d82919fa-4dd3-472c-a589-170e317a0c23&pf_rd_r=6EP72AAV97HT08RR28ER&pd_rd_wg=JdsMB&pd_rd_r=85bb60ae-8ea8-4f29-ba90-37ff62a3ddf6&pd_rd_i=B089W938BR&th=1",
+            "cssSelector": ".a-price-whole"
+        }, 
+        {
+            "siteName": "https://www.amazon.in/",
+            "productName": "Mamaearth Vitamin C Face Wash with Vitamin C and Turmeric for Skin Illumination - 100ml",
+            "productQuantity": 2,
+            "productURL": "https://www.amazon.in/Mamaearth-Vitamin-Face-Turmeric-Illumination/dp/B089W938BR/ref=pd_ci_mcx_mh_mcx_views_3?pd_rd_w=Wa2FY&content-id=amzn1.sym.d82919fa-4dd3-472c-a589-170e317a0c23%3Aamzn1.symc.45dc5f4c-d617-4dba-aa26-2cadef3da899&pf_rd_p=d82919fa-4dd3-472c-a589-170e317a0c23&pf_rd_r=6EP72AAV97HT08RR28ER&pd_rd_wg=JdsMB&pd_rd_r=85bb60ae-8ea8-4f29-ba90-37ff62a3ddf6&pd_rd_i=B089W938BR&th=1",
+            "cssSelector": ".a-price-whole"
+        }
+    ]
+}
